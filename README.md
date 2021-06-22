@@ -33,7 +33,7 @@ Tips: If you get stuck, feel free to check the solution video where detailed ope
 
 
 
-**Exercise 02: Application Logging **
+**Exercise 02: Application Logging**
 
 Logging is a core factor in increasing the visibility and transparency of an application. When in troubleshooting or debugging scenarios, it is paramount to pin-point the functionality that impacted the service. This exercise will focus on bringing the logging capabilities to an application.
 
