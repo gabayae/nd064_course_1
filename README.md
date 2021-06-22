@@ -15,6 +15,7 @@ Details on the programme can be found at [SUSE](https://www.suse.com/c/suse-spon
 
 ## Phase -1
 
+****
 
 **Exercise 01**
 
@@ -29,6 +30,9 @@ Extend the Python Flask application with `/status` and `/metrics` endpoints, con
    - The `/metrics` endpoint should return a response similar to this example: `data: {UserCount: 140, UserCountActive: 23}`
 
 Tips: If you get stuck, feel free to check the solution video where detailed operations are demonstrated.
+
+
+****
 
 
 
