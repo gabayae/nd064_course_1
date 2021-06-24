@@ -4,7 +4,7 @@
   
   
   
-                                                 SUSE Scholarship program Cloud Native Foundations Course 
+                                               SUSE Scholarship program Cloud Native Foundations Course 
                                              
 
 
@@ -56,7 +56,7 @@ In this exercise, you need to further develop the Hello World application collec
 Tips: If you get stuck, feel free to check the solution video where detailed operations are demonstrated.
 
 
-
+****
 
 **Exercise 03**
 
